@@ -1,5 +1,5 @@
 # E-commerce-Gym-Website
-Frontend :HTML, CSS, Javascript, and jQuery
+Frontend :HTML, CSS, Javascript, and jQuery <br />
 backend :php and My SQL
 ## Main Screens
 ![1](https://user-images.githubusercontent.com/52297411/122947476-78bc2880-d37a-11eb-82ff-0f59b6c7ec20.png)
